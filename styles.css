@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#main{
+	margin:auto;
+	padding:20px;
+	border:15px solid blue;
+	border-radius:20px;
+	background-color:skyblue
+}
+span{
+	border-radius:50%;
+	width:30%;
+}
+span.red{
+	background-color:red;
+	
+	
+}
+span.yellow{
+	background-color:yellow;
+}
+span.green{
+	background-color:green;
+}
