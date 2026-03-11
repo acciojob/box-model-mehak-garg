@@ -10,18 +10,22 @@
 	display:flex;
 	justify-content:center;
 }
-.circle{
+.red{
+	background-color:red;
+	border-radius:50%;
+	width:30%;
+}	
+	
+
+.yellow{
+	background-color:yellow;
 	border-radius:50%;
 	width:30%;
 }
-#red{
-	background-color:red;
-	
-	
-}
-#yellow{
-	background-color:yellow;
-}
-#green{
+
+.green{
 	background-color:green;
+	border-radius:50%;
+	width:30%;
+
 }
