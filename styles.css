@@ -1,23 +1,27 @@
 /*  your css code here. If applicable */
 #main{
+	height:100px;
+
 	margin:auto;
 	padding:20px;
 	border:15px solid blue;
 	border-radius:20px;
-	background-color:skyblue
+	background-color:skyblue;
+	display:flex;
+	justify-content:center;
 }
-span{
+.circle{
 	border-radius:50%;
 	width:30%;
 }
-span.red{
+#red{
 	background-color:red;
 	
 	
 }
-span.yellow{
+#yellow{
 	background-color:yellow;
 }
-span.green{
+#green{
 	background-color:green;
 }
